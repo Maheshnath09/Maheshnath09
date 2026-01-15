@@ -43,7 +43,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
   </a>
   <a href="https://x.com/Maheshnath_23" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="X (Twitter)" width="40" height="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/maheshnath2143" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
