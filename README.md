@@ -102,7 +102,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq,streamlit" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq" alt="Tools" />
 </p>
 
 ---
