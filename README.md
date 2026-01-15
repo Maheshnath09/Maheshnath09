@@ -6,10 +6,6 @@ I build **scalable backend systems**, **real-time APIs**, and **AI-powered SaaS 
 My focus areas include **FastAPI-based systems**, **agentic AI**, and **production-ready web services**.
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheshnath09&theme=flat&margin-w=10&no-frame=true&no-bg=true" alt="Maheshnath09" />
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Maheshnath09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -47,7 +43,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
   </a>
   <a href="https://x.com/Maheshnath_23" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="X (Twitter)" width="40" height="40" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/maheshnath2143" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
@@ -80,10 +76,10 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ### 🧠 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="LangChain" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" alt="MLflow" width="80" height="40"/>
 </p>
 
 ### 🗄️ Databases & Caching
@@ -107,29 +103,40 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq" alt="Tools" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 Live GitHub Stats (Real-Time)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshnath09&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheshnath09&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity (Live)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshnath09&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshnath09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshnath09&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
