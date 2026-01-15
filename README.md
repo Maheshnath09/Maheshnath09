@@ -6,11 +6,11 @@ I build **scalable backend systems**, **real-time APIs**, and **AI-powered SaaS 
 My focus areas include **FastAPI-based systems**, **agentic AI**, and **production-ready web services**.
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheshnath09&theme=flat&margin-w=10" alt="Maheshnath09" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheshnath09&theme=flat&margin-w=10&no-frame=true&no-bg=true" alt="Maheshnath09" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maheshnath09&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Maheshnath09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 - 🤝 Looking for contributors to enhance my **real-time streaming API**
 - 💬 Ask me about **Python, FastAPI, system design, APIs, and AI/ML**
 - 📫 Reach me at **maheshnath2143@gmail.com**
-- ⚡ Fun fact: I’m a night owl who builds better after midnight
+- ⚡ Fun fact: I'm a night owl who builds better after midnight
 
 ---
 
@@ -37,14 +37,30 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Maheshnath09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mahesh-nath-1aa36a259/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
-  <a href="https://dev.to/maheshnath09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" /></a>
-  <a href="https://x.com/Maheshnath_23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/maheshnath2143"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" /></a>
-  <a href="https://stackoverflow.com/users/32165238/mahesh-nath"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>
-  <a href="https://www.kaggle.com/maheshnath23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" /></a>
-  <a href="https://leetcode.com/u/maheshnath09/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+  <a href="https://github.com/Maheshnath09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahesh-nath-1aa36a259/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://dev.to/maheshnath09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
+  </a>
+  <a href="https://x.com/Maheshnath_23" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="X (Twitter)" width="40" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/maheshnath2143" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/32165238/mahesh-nath" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />
+  </a>
+  <a href="https://www.kaggle.com/maheshnath23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/maheshnath09/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -53,42 +69,45 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,ts,dart,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,ts,dart,kotlin" alt="Programming Languages" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs,vue,flutter,qt,graphql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs,vue,flutter,qt,graphql" alt="Frameworks" />
 </p>
 
 ### 🧠 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" height="40"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase" alt="Databases" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,jenkins" alt="DevOps & Cloud" />
 </p>
 
 ### 📊 Data & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,streamlit,grafana,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq" alt="Tools" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
 </p>
 
 ---
@@ -96,15 +115,15 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ## 📈 Live GitHub Stats (Real-Time)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshnath09&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshnath09&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -112,5 +131,5 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ## 🔥 Contribution Activity (Live)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshnath09&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshnath09&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" />
 </p>
