@@ -83,7 +83,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=streamlit&size=45&reverseBackground=true" alt="streamlit" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=gradio&size=45" alt="gradio" />
-  <img src="https://cdn.simpleicons.org/mcp" width="45" /> 
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol" width="45" /> 
   
 </a></p>
 
