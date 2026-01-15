@@ -43,7 +43,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
   </a>
   <a href="https://x.com/Maheshnath_23" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" width="40" height="40" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/maheshnath2143" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
@@ -77,9 +77,9 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain-icon.svg" alt="LangChain" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="LangChain" width="45" height="45" title="LangChain"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
 </p>
 
 ### 🗄️ Databases & Caching
@@ -110,7 +110,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheshnath09&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maheshnath09&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -118,12 +118,12 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maheshnath09&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Maheshnath09&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshnath09&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maheshnath09&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
