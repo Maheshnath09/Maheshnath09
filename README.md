@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahesh Nath  
+  # Hi 👋, I'm Mahesh Nath  
 
 ### Python Developer | Backend Engineer | AI & ML Enthusiast  
 
@@ -80,6 +80,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
+  <img src="https://docs.trychroma.com/img/chroma.png" alt="ChromaDB" width="200"/>
 </p>
 
 ### 🗄️ Databases & Caching
