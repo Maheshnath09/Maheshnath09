@@ -78,6 +78,9 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
+  
+  <img alt="Chroma Logo" loading="lazy" width="793" height="512" decoding="async" data-nimg="1" class="w-8" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=828&amp;q=75&amp;dpl=dpl_AzZcAEUBuMVmYP8giyCDZqHTZy2V 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=1920&amp;q=75&amp;dpl=dpl_AzZcAEUBuMVmYP8giyCDZqHTZy2V 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=1920&amp;q=75&amp;dpl=dpl_AzZcAEUBuMVmYP8giyCDZqHTZy2V" style="color: transparent;">
+  
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
 </p>
