@@ -84,7 +84,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,chromaDB" alt="Databases" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -102,7 +102,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq,streamlit,langchain" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,grafana,kafka,rabbitmq,streamlit" alt="Tools" />
 </p>
 
 ---
