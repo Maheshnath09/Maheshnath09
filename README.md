@@ -80,9 +80,6 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
- <a href="https://www.trychroma.com/">
-  <img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="ChromaDB" height="45" style="background: transparent;"/>
-</a>
 </a></p>
 
 ### 🗄️ Databases & Caching
