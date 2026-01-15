@@ -80,6 +80,11 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="45" height="45"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=streamlit&size=96&reverseBackground=true" alt="streamlit" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=gradio&size=96" alt="gradio" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ollama&size=96&color=%23ffffff" alt="ollama" />
+
+  
 </a></p>
 
 ### 🗄️ Databases & Caching
