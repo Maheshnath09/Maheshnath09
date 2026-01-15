@@ -63,11 +63,12 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🧠 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" height="40"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,provides=sklearn" />
 </p>
+
+**Also experienced with:** LangChain, Hugging Face, MLflow
+
+---
 
 ### 🗄️ Databases & Caching
 <p>
@@ -81,10 +82,12 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 📊 Data & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="40"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
+
+**Also experienced with:** Seaborn
+
+---
 
 ### 🛠️ Tools & Platforms
 <p>
@@ -93,18 +96,26 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ---
 
-## 📈 Live GitHub Stats (Real-Time)
+## 📈 Live GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshnath09&layout=compact&cache_seconds=1800" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&theme=github_dark&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshnath09&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshnath09&layout=compact&theme=github_dark&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshnath09&theme=github-dark&hide_border=true" 
+  />
 </p>
 
 ---
