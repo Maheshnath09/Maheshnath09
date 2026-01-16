@@ -40,7 +40,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://dev.to/maheshnath09" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=devto" alt="devto" />
   </a>
   <a href="https://x.com/Maheshnath_23" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" alt="X (Twitter)" width="40" height="40" />
