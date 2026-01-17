@@ -89,7 +89,7 @@ My focus areas include **FastAPI-based systems**, **agentic AI**, and **producti
 
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,supabase" alt="Databases" />
 </p>
 
 ### ☁️ DevOps & Cloud
