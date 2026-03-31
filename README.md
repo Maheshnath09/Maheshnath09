@@ -1,6 +1,6 @@
   # Hi 👋, I'm Mahesh Nath  
 
-### Python Developer | Backend Engineer | Agentic Ai Developer
+### Python Developer | Backend  | Agentic Ai 
 
 I build **scalable backend systems**, **real-time APIs**, and **AI-powered SaaS applications** using Python.  
 My focus areas include **FastAPI-based systems**, **agentic AI**, and **production-ready web services**.
